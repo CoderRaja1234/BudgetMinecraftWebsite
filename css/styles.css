@@ -1,0 +1,13 @@
+#subheading{
+    width: 100%;
+    height: 700px;
+    background-image: url("https://images.indianexpress.com/2020/05/Minecraft-1200-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+#textAlign{
+    text-align: center;
+    line-height: 700px;
+}
