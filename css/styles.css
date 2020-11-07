@@ -11,3 +11,7 @@
     text-align: center;
     line-height: 700px;
 }
+
+.dropdown-toggle-budget::after {
+    content: none;
+}
