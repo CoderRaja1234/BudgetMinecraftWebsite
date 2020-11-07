@@ -47,6 +47,18 @@
   box-sizing: border-box;
 }
 
+#imagehead{
+  background-image: url('Minecraftimage.jpg');
+  background-repeat: no-repeat;
+  background-size: auto;
+  /* height: 100%; */
+  background-position: center center;
+}
+
+/* subheader{
+  ;
+} */
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
