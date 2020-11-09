@@ -1,4 +1,4 @@
-#subheading{
+#subheading {
     width: 100%;
     height: 700px;
     /* background-image: url("https://images.indianexpress.com/2020/05/Minecraft-1200-1.jpg"); */
@@ -7,7 +7,7 @@
     margin: 0 auto;
 }
 
-#textAlign{
+#textAlign {
     text-align: center;
     line-height: 700px;
 }
@@ -16,29 +16,28 @@
     content: none;
 }
 
-sup{
+.row {
+    justify-content: center;
+}
+
+sup {
     font-size: 0.5em;
 }
 
-
-.red{
+.red {
     background-color: #D83030;
     font-weight: bolder;
 }
 
-.card{
-    padding: 0px;
-}
-
-.btn{
+.btn {
     outline-color: #D83030;
 }
 
-.fas{
+.fas {
     color: #B9B9B9;
 }
 
-hr{
+hr {
     border-color: white;
     width: 10%;
 }
