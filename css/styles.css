@@ -1,7 +1,7 @@
 #subheading{
     width: 100%;
     height: 700px;
-    background-image: url("https://images.indianexpress.com/2020/05/Minecraft-1200-1.jpg");
+    /* background-image: url("https://images.indianexpress.com/2020/05/Minecraft-1200-1.jpg"); */
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0 auto;
@@ -14,4 +14,31 @@
 
 .dropdown-toggle-budget::after {
     content: none;
+}
+
+sup{
+    font-size: 0.5em;
+}
+
+
+.red{
+    background-color: #D83030;
+    font-weight: bolder;
+}
+
+.card{
+    padding: 0px;
+}
+
+.btn{
+    outline-color: #D83030;
+}
+
+.fas{
+    color: #B9B9B9;
+}
+
+hr{
+    border-color: white;
+    width: 10%;
 }
