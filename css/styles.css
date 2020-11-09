@@ -51,14 +51,12 @@ hr {
     color: #B2BBB2;
 }
 
-
-/* 
-.footer {
-    background-color: #252628;
-    margin: 0%;
-}
-
 .footer-dark {
     background-color: #191A1C;
     color: white;
-} */
+}
+
+.vcenter {
+    display: flex;
+    align-items: center;
+}
