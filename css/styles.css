@@ -41,3 +41,24 @@ hr {
     border-color: white;
     width: 10%;
 }
+
+.jumbotron {
+    background-color: #252628;
+    margin-bottom: 0%;
+}
+
+.light-text {
+    color: #B2BBB2;
+}
+
+
+/* 
+.footer {
+    background-color: #252628;
+    margin: 0%;
+}
+
+.footer-dark {
+    background-color: #191A1C;
+    color: white;
+} */
