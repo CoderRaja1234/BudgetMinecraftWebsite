@@ -61,4 +61,24 @@ hr {
     align-items: center;
 }
 
-.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropdown-content {
+    display: block;
+    padding: 15px 15px;
+    margin: 8px 8px;
+}
+
+.navbar-color{
+    background-color: red;
+}
+
+.navbar-text{
+    font-weight: 650;
+    font-size: large;
+    color: white;
+    text-transform: uppercase;
+}
+
+.dropdown-item{
+    font-weight: 500;
+    color:grey;
+}
