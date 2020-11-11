@@ -64,7 +64,7 @@ hr {
 .dropdown:hover .dropdown-content {
     display: block;
     padding: 15px 15px;
-    margin: 8px 8px;
+    margin-top: 0px;
 }
 
 .navbar-color{
