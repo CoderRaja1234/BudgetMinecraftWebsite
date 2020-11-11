@@ -61,12 +61,6 @@ hr {
     align-items: center;
 }
 
-.dropdown:hover .dropdown-content {
-    display: block;
-    padding: 15px 15px;
-    margin-top: 0px;
-}
-
 .navbar-color{
     background-color: red;
 }
@@ -81,4 +75,19 @@ hr {
 .dropdown-item{
     font-weight: 500;
     color:grey;
+}
+
+@media(min-width: 992px){
+    .dropdown:hover .dropdown-content {
+        display: block;
+        padding: 15px 15px;
+        margin-top: 0px;
+        width: 200px;
+    }
+    .dropdown-toggle::after{
+        content: none;
+    }
+    .dropdown-item:hover{
+        color: red;
+    }
 }
